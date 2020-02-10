@@ -6,6 +6,6 @@ Please use approach with sparate jnlp postgresql container in case of any issues
 Image includes:
 * Python3.7
 * Postgresql11 server, client
-* Sqlite 3.11
+* Sqlite 3.30.1
 * Sonar
 * Maven 8
